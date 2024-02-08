@@ -51,7 +51,7 @@ class _infoState extends State<info> {
                   ),
                 ),
                 SizedBox(height: 15.0,),
-                Text('Joseph adel',
+                Text('haidy adel',
                   style: TextStyle(
                       color: Color(0xffff6c22),
                       fontSize: 25.0
@@ -71,7 +71,7 @@ class _infoState extends State<info> {
                   ),
                 ),
                 SizedBox(height: 15.0,),
-                Text('Josephadel@gmail.com',
+                Text('haidyadel@gmail.com',
                   style: TextStyle(
                       color: Color(0xffff6c22),
                       fontSize: 25.0
